@@ -1,7 +1,6 @@
 import React from 'react';
 import {PiBowlFood} from "react-icons/pi";
 import {useAppSelector} from "../../hooks/redux";
-import {api} from "../../api/api";
 import {NavLink} from "react-router-dom";
 
 const Header = () => {
